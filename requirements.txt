@@ -1,3 +1,6 @@
 speechrecognition
 pyaudio
 torch
+transformers
+accelerate
+huggingface-hub
